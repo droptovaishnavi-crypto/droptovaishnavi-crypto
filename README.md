@@ -173,8 +173,6 @@ Built a machine learning solution to classify health risk levels across **190+ c
 
 `Python` `Scikit-learn` `Pandas` `NumPy` `Power BI` `SQL`
 
-🔗 **Repository:** https://github.com/droptovaishnavi-crypto/YOUR_REPOSITORY_NAME
-
 ---
 
 ## 📄 Intelligent Document Query & Retrieval System (LLM + RAG)
@@ -186,15 +184,13 @@ Built an AI-powered document retrieval system capable of answering natural langu
 - 🤖 GPT-4 powered document assistant.
 - 📚 Processed **500+ pages** of documents.
 - 📄 Generated **1000+ searchable chunks**.
-- ⚡ FastAPI backend with real-time responses.
+- ⚡ Developed a FastAPI backend for real-time responses.
 - 🧠 Integrated FAISS/Pinecone for vector search.
-- ⏱️ Response time under **3 seconds**.
+- ⏱️ Achieved response times under **3 seconds**.
 
 **🛠️ Tech Stack**
 
 `Python` `FastAPI` `LangChain` `OpenAI` `FAISS` `Pinecone`
-
-🔗 **Repository:** https://github.com/droptovaishnavi-crypto/YOUR_REPOSITORY_NAME
 
 ---
 
@@ -213,7 +209,5 @@ Developed an AI-powered hospital triage system that prioritizes patients using M
 **🛠️ Tech Stack**
 
 `Python` `FastAPI` `LangGraph` `PyTorch` `Scikit-learn`
-
-🔗 **Repository:** https://github.com/droptovaishnavi-crypto/YOUR_REPOSITORY_NAME
 
 ---
