@@ -211,3 +211,44 @@ Developed an AI-powered hospital triage system that prioritizes patients using M
 `Python` `FastAPI` `LangGraph` `PyTorch` `Scikit-learn`
 
 ---
+
+---
+
+# 📝 Articles & Blogs
+
+I enjoy sharing my learning journey in Artificial Intelligence, Deep Learning, and Machine Learning through technical articles.
+
+### 📚 Deep Learning with Keras for Beginners
+A beginner-friendly guide to understanding Deep Learning concepts and building neural networks using Keras.
+
+🔗 https://substack.com/@umquamtamquam398423/note/p-194543892?r=6z2nck
+
+---
+
+### 📖 Deep Learning with Keras – Intermediate Module
+Explore hidden layers, activation functions, optimizers, and techniques for building better deep learning models.
+
+🔗 https://substack.com/@umquamtamquam398423/note/p-194667819?r=6z2nck
+
+---
+
+### 🚀 Deep Learning with Keras – Intermediate Module II
+Learn advanced concepts such as regularization, dropout, batch normalization, and model optimization.
+
+🔗 https://substack.com/@umquamtamquam398423/note/c-248597094?r=6z2nck
+
+---
+
+### 🎯 Deep Learning with Keras – Advanced Guide
+Dive into advanced neural network architectures, performance tuning, and best practices for real-world AI applications.
+
+🔗 https://substack.com/@umquamtamquam398423/note/c-269185323?r=6z2nck
+
+---
+
+### 🤖 Interesting & Hidden Facts About Artificial Intelligence
+Discover fascinating AI facts, myths, historical milestones, and emerging trends shaping the future of Artificial Intelligence.
+
+🔗 https://substack.com/@umquamtamquam398423/note/c-242586494?r=6z2nck
+
+---
