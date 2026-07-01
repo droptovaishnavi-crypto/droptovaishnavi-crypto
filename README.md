@@ -372,18 +372,22 @@ Worked on large-scale business datasets to develop predictive models and interac
 
 ---
 
-# 🏆 GitHub Achievements
+---
+
+# 👀 Profile Views
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=droptovaishnavi-crypto&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=4" />
+  <img src="https://komarev.com/ghpvc/?username=droptovaishnavi-crypto&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+---
+
+# 💬 Developer Quote
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/droptovaishnavi-crypto/droptovaishnavi-crypto/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
 </p>
 
 ---
