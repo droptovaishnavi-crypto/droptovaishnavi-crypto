@@ -252,3 +252,28 @@ Discover fascinating AI facts, myths, historical milestones, and emerging trends
 🔗 https://substack.com/@umquamtamquam398423/note/c-242586494?r=6z2nck
 
 ---
+
+---
+
+# 📜 Certifications
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/HP%20LIFE-AI%20for%20Business%20Professional-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Microsoft%20%26%20EY-AI%20Skills%20Passport-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google%20Cloud-Trust%20and%20Security-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft-Introduction%20to%20Generative%20AI%20and%20Agents-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+</p>
+
+### 🏅 Completed Certifications
+
+- 🤖 **AI for Business Professional** – HP LIFE *(2025)*
+- 💼 **AI Skills Passport** – Microsoft & EY *(2025)*
+- ☁️ **Trust and Security with Google Cloud** – Google Cloud *(2025)*
+- 🧠 **Introduction to Generative AI and Agents** – Microsoft *(2025)*
+
+---
