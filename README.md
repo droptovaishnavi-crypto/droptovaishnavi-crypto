@@ -392,4 +392,52 @@ Worked on large-scale business datasets to develop predictive models and interac
 
 ---
 
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+💡 I'm always excited to collaborate on **AI, Machine Learning, Data Science, and Generative AI** projects.
+
+📫 Feel free to reach out for collaborations, internships, research opportunities, or open-source contributions.
+
+</p>
+
+<p align="center">
+
+<a href="mailto:droptovaishnavi@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vaishnavi2908">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://lighthearted-biscotti-4812d1.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://substack.com/@umquamtamquam398423">
+<img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+⭐ <b>If you like my work, consider following my GitHub journey!</b> ⭐
+</p>
+
+<p align="center">
+<i>"Turning ideas into intelligent AI solutions, one project at a time."</i> 🚀
+</p>
+
+<p align="center">
+Thanks for visiting my profile! ❤️
+</p>
+
+---
+
 
