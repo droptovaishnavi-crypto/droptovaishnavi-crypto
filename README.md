@@ -277,3 +277,58 @@ Discover fascinating AI facts, myths, historical milestones, and emerging trends
 - 🧠 **Introduction to Generative AI and Agents** – Microsoft *(2025)*
 
 ---
+
+---
+
+# 💼 Professional Experience
+
+```text
+📅 Career Timeline
+
+Dec 2025 ───────────────────────────────────────────────────────────────
+🤖 Data Scientist Intern | RootPro Technologies
+
+Jul 2025 ───────────────────────────────────────────────────────────────
+📊 Data Scientist Intern | BICS Global Solutions
+```
+
+## 🤖 Data Scientist Intern | RootPro Technologies
+
+**📅 Duration:** December 2025
+
+Contributed to end-to-end data science projects by transforming raw data into actionable insights and building machine learning solutions for business applications.
+
+### 🚀 Key Highlights
+
+- 📊 Performed data cleaning, preprocessing, and exploratory data analysis (EDA) on real-world datasets.
+- 🤖 Built machine learning models for classification and prediction using Scikit-learn.
+- 📈 Designed interactive dashboards and visualizations to present business insights effectively.
+- 🧠 Applied feature engineering, model evaluation, and hyperparameter tuning to improve model performance.
+- 💻 Collaborated with mentors to develop scalable, data-driven solutions using Python and SQL.
+
+**🛠️ Tech Stack**
+
+`Python` `SQL` `Pandas` `NumPy` `Scikit-learn` `Power BI`
+
+---
+
+## 📊 Data Scientist Intern | BICS Global Solutions
+
+**📅 Duration:** July 2025
+
+Worked on large-scale business datasets to develop predictive models and interactive business intelligence dashboards.
+
+### 🚀 Key Highlights
+
+- 📈 Analyzed **20,000+ business records** using Python and SQL.
+- 🧹 Improved data quality by approximately **25%** through preprocessing and feature engineering.
+- 🤖 Developed Machine Learning models including Random Forest and Logistic Regression.
+- 🎯 Achieved approximately **80% prediction accuracy**.
+- 📊 Built Power BI dashboards with **8+ KPIs** for business reporting.
+- ⚡ Reduced manual reporting effort by nearly **30%** through dashboard automation.
+
+**🛠️ Tech Stack**
+
+`Python` `SQL` `Scikit-learn` `Pandas` `NumPy` `Power BI`
+
+---
