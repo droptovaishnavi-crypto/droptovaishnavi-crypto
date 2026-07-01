@@ -155,3 +155,65 @@ Building intelligent AI solutions using Machine Learning, Deep Learning, Large L
 </p>
 
 ---
+
+# 🚀 Featured Projects
+
+## 🌍 Global Health Risk Analysis & Prediction
+
+Built a machine learning solution to classify health risk levels across **190+ countries** using **10,000+ cleaned records**.
+
+### ✨ Highlights
+
+- 📊 Developed a weighted health risk scoring model.
+- 🤖 Built and evaluated Random Forest, XGBoost, Logistic Regression & Decision Tree models.
+- 🎯 Achieved **85–88% prediction accuracy**.
+- 📈 Created an interactive Power BI dashboard with 10+ visualizations.
+
+**🛠️ Tech Stack**
+
+`Python` `Scikit-learn` `Pandas` `NumPy` `Power BI` `SQL`
+
+🔗 **Repository:** https://github.com/droptovaishnavi-crypto/YOUR_REPOSITORY_NAME
+
+---
+
+## 📄 Intelligent Document Query & Retrieval System (LLM + RAG)
+
+Built an AI-powered document retrieval system capable of answering natural language questions using Retrieval-Augmented Generation (RAG).
+
+### ✨ Highlights
+
+- 🤖 GPT-4 powered document assistant.
+- 📚 Processed **500+ pages** of documents.
+- 📄 Generated **1000+ searchable chunks**.
+- ⚡ FastAPI backend with real-time responses.
+- 🧠 Integrated FAISS/Pinecone for vector search.
+- ⏱️ Response time under **3 seconds**.
+
+**🛠️ Tech Stack**
+
+`Python` `FastAPI` `LangChain` `OpenAI` `FAISS` `Pinecone`
+
+🔗 **Repository:** https://github.com/droptovaishnavi-crypto/YOUR_REPOSITORY_NAME
+
+---
+
+## 🏥 HospiSense AI – Adaptive Hospital Flow Intelligence System
+
+Developed an AI-powered hospital triage system that prioritizes patients using Machine Learning and multi-agent workflows.
+
+### ✨ Highlights
+
+- 🩺 Achieved **92% patient prioritization accuracy**.
+- 🤖 Built using LangGraph multi-agent architecture.
+- ⚡ Developed with FastAPI.
+- 🧠 ML models using Scikit-learn & PyTorch.
+- 📈 Improved decision consistency by **40%**.
+
+**🛠️ Tech Stack**
+
+`Python` `FastAPI` `LangGraph` `PyTorch` `Scikit-learn`
+
+🔗 **Repository:** https://github.com/droptovaishnavi-crypto/YOUR_REPOSITORY_NAME
+
+---
