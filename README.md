@@ -15,3 +15,44 @@ Passionate about building AI-powered solutions that solve real-world problems us
 🏫 GKM College of Engineering and Technology, Chennai<br>
 📍 Chennai, Tamil Nadu, India
 </p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/vaishnavi2908">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://lighthearted-biscotti-4812d1.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
+
+<a href="mailto:droptovaishnavi@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://substack.com/@umquamtamquam398423">
+<img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white"/>
+</a>
+
+<a href="https://github.com/droptovaishnavi-crypto">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 AI & Data Science Undergraduate at **GKM College of Engineering and Technology**
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning, Deep Learning, Data Science & Generative AI**
+- 🧠 Exploring **LLMs, RAG, AI Agents, LangChain, FastAPI & MCP**
+- 🚀 Building AI-powered applications that solve real-world problems
+- 📚 Published technical articles on **Deep Learning with Keras** and **Artificial Intelligence**
+- 🌱 Currently learning **Advanced Generative AI, Reinforcement Learning & Multi-Agent Systems**
+- 💬 Ask me about **Python, SQL, Machine Learning, Deep Learning, NLP, LLMs, FastAPI, TensorFlow, PyTorch**
+- 📫 Reach me at **droptovaishnavi@gmail.com**
