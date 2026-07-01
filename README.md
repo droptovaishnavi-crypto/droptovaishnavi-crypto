@@ -137,3 +137,31 @@ Building intelligent AI solutions using Machine Learning, Deep Learning, Large L
 ✔ AI/ML Internship Preparation
 
 ---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=droptovaishnavi-crypto&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=droptovaishnavi-crypto&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=droptovaishnavi-crypto&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=droptovaishnavi-crypto&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
