@@ -143,7 +143,6 @@ Building intelligent AI solutions using Machine Learning, Deep Learning, Large L
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=droptovaishnavi-crypto&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=droptovaishnavi-crypto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
