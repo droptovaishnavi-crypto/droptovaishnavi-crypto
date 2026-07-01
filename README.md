@@ -332,3 +332,40 @@ Worked on large-scale business datasets to develop predictive models and interac
 `Python` `SQL` `Scikit-learn` `Pandas` `NumPy` `Power BI`
 
 ---
+
+---
+
+# 🎓 Education
+
+## 🎓 Bachelor of Technology (B.Tech)
+
+**Artificial Intelligence and Data Science (Honours)**
+
+🏫 **GKM College of Engineering and Technology**
+
+🎓 **Affiliated to Anna University, Chennai**
+
+📍 Chennai, Tamil Nadu, India
+
+📅 **2023 – 2027**
+
+🎯 **CGPA:** **8.89 / 10.0**
+
+---
+
+## 📚 Relevant Coursework
+
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 📊 Data Science
+- 💻 Data Structures & Algorithms
+- 🗄️ Database Management Systems
+- 🌐 Computer Networks
+- 📈 Statistics & Probability
+- 🧮 Linear Algebra
+- 🔍 Natural Language Processing
+- ⚡ Generative AI
+- 🎯 Reinforcement Learning
+- ☁️ Cloud Computing
+
+---
