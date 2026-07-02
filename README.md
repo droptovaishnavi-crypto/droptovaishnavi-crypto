@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="banner.png" alt="Vaishnavi Devi R Banner" width="100%">
+</p>
+
+<br>
+
 <h1 align="center">Hi 👋, I'm Vaishnavi Devi R</h1>
 
 <h3 align="center">
